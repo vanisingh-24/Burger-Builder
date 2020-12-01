@@ -4,13 +4,13 @@
     box-sizing: border-box;
 }
 
-.Label{
+.Label {
     font-weight: bold;
     display: block;
     margin-bottom: 8px;
 }
 
-.InputElement{
+.InputElement {
     outline: none;
     border: 1px solid #ccc;
     background-color: white;
@@ -21,7 +21,7 @@
     box-sizing: border-box;
 }
 
-.InputElement:focus{
+.InputElement:focus {
     outline: none;
     background-color: #ccc;
 }
