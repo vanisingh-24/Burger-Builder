@@ -1,5 +1,3 @@
-//we do not need enzym here coz we arent rendering any react comp here
-//ewe just test fns (pure functions)
 import reducer from './auth';
 import * as actionTypes from '../actions/actionTypes';
 
